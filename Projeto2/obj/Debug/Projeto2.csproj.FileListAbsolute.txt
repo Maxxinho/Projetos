@@ -1,0 +1,7 @@
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\bin\Debug\Projeto2.exe.config
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\bin\Debug\Projeto2.exe
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\bin\Debug\Projeto2.pdb
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\obj\Debug\Projeto2.csproj.AssemblyReference.cache
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\obj\Debug\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\obj\Debug\Projeto2.exe
+C:\Users\lab2084\source\repos\S3 Studios\Projeto2\obj\Debug\Projeto2.pdb
